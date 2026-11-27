@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Unique Kuinkel
 
-### 🎓 BSc CSIT Student | 💼 Business Analyst Intern | 💻 Tech Enthusiast
+### 🎓 BSc CSIT Student |  💻 Tech Enthusiast
 
 I'm a Computer Science student at **Tribhuvan University, Nepal**, passionate about building practical solutions through software, cloud technologies, databases, and automation.
 
