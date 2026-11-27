@@ -11,7 +11,6 @@ Currently exploring the intersection of **Business Analysis**, **Software Develo
 ## 🚀 About Me
 
 * 🎓 Studying BSc CSIT at Tribhuvan University
-* 💼 Working as a Business Analyst Intern in a Technical Sales environment
 * ☁️ Completed foundational AWS Cloud training
 * 🌐 Interested in Full Stack Web Development
 * 🗄️ Enthusiastic about Databases and Data Management
@@ -70,7 +69,6 @@ Currently exploring the intersection of **Business Analysis**, **Software Develo
 ```text
 ☁️ Cloud Computing (AWS)
 🌐 Modern Web Applications
-📊 Business Analysis
 🗄️ Database Design
 🔗 API Integrations
 ⚡ Workflow Automation
